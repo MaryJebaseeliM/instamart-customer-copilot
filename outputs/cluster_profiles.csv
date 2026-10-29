@@ -1,0 +1,5 @@
+segment_id,segment_name,is_premium,customer_count,mean_recency,mean_frequency,mean_monetary
+0,"Occasional, Lower-Spend Customers",False,436,28.86,3.77,1057.62
+1,Premium - High-Value Customers,True,138,24.12,6.77,7129.7
+2,"Frequent, Recently Active Customers",False,419,8.77,19.4,3410.02
+3,Lapsed or At-Risk Customers,False,182,109.04,2.2,685.99

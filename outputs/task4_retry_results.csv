@@ -1,0 +1,157 @@
+ticket_id,true_category,response,category,reason,classification_status,route,transient_errors,status
+T0024,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0073,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0095,technical,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0080,fraud,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0124,fraud,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0061,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0118,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0037,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0002,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,1,success
+T0031,technical,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0047,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0063,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0121,billing,The customer appears to have a billing-related problem.,billing,Extracted from a non-JSON response.,classified_keyword,support_queue,0,success
+T0139,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0115,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0123,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0116,fraud,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",,JSON category is missing or not allowed.,flagged_invalid_output,human_review,1,success
+T0136,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0008,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0102,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0072,fraud,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0101,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0059,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0049,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0153,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,1,success
+T0050,delivery,The customer appears to have a delivery-related problem.,delivery,Extracted from a non-JSON response.,classified_keyword,support_queue,0,success
+T0147,technical,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0074,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0156,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0145,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0053,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0134,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0039,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,1,success
+T0016,fraud,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",,JSON category is missing or not allowed.,flagged_invalid_output,human_review,0,success
+T0055,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0130,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0099,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0062,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0013,billing,The customer appears to have a billing-related problem.,billing,Extracted from a non-JSON response.,classified_keyword,support_queue,0,success
+T0137,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0152,fraud,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,1,success
+T0144,fraud,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0094,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0021,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0077,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0036,fraud,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0113,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0060,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0043,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,1,success
+T0048,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0154,delivery,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",,JSON category is missing or not allowed.,flagged_invalid_output,human_review,0,success
+T0125,billing,The customer appears to have a billing-related problem.,billing,Extracted from a non-JSON response.,classified_keyword,support_queue,0,success
+T0146,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0107,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0011,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0017,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0111,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,1,success
+T0041,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0120,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0122,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0001,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0064,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0092,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0038,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0155,technical,The customer appears to have a technical-related problem.,technical,Extracted from a non-JSON response.,classified_keyword,support_queue,1,success
+T0104,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0012,fraud,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0084,fraud,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",,JSON category is missing or not allowed.,flagged_invalid_output,human_review,0,success
+T0051,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0143,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0035,technical,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0028,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0100,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,1,success
+T0022,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0082,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0127,technical,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0109,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0046,delivery,The customer appears to have a delivery-related problem.,delivery,Extracted from a non-JSON response.,classified_keyword,support_queue,0,success
+T0081,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0007,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0068,fraud,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,1,success
+T0085,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0075,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0052,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0066,delivery,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",,JSON category is missing or not allowed.,flagged_invalid_output,human_review,0,success
+T0151,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0131,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0006,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0135,technical,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,1,success
+T0079,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0040,fraud,The customer appears to have a fraud-related problem.,fraud,Extracted from a non-JSON response.,classified_keyword,support_queue,0,success
+T0093,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0089,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0034,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0033,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0087,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0009,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,1,success
+T0108,fraud,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0054,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0025,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0004,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0148,fraud,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",,JSON category is missing or not allowed.,flagged_invalid_output,human_review,0,success
+T0088,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0030,delivery,The customer appears to have a delivery-related problem.,delivery,Extracted from a non-JSON response.,classified_keyword,support_queue,0,success
+T0067,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,1,success
+T0029,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0129,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0105,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0045,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0069,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0010,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0023,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0106,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,1,success
+T0015,technical,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0091,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0126,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0096,fraud,The customer appears to have a fraud-related problem.,fraud,Extracted from a non-JSON response.,classified_keyword,support_queue,0,success
+T0149,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0070,delivery,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",,JSON category is missing or not allowed.,flagged_invalid_output,human_review,0,success
+T0026,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0097,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,1,success
+T0132,fraud,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0027,technical,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0119,technical,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0058,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0110,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0018,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0032,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0003,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,1,success
+T0042,delivery,The customer appears to have a delivery-related problem.,delivery,Extracted from a non-JSON response.,classified_keyword,support_queue,0,success
+T0056,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0114,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0083,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0138,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0057,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0076,fraud,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",,JSON category is missing or not allowed.,flagged_invalid_output,human_review,0,success
+T0019,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,1,success
+T0103,technical,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0090,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0112,fraud,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0133,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0014,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0020,fraud,The customer appears to have a fraud-related problem.,fraud,Extracted from a non-JSON response.,classified_keyword,support_queue,0,success
+T0142,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0086,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,1,success
+T0141,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0044,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0117,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0078,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0140,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0071,technical,"{""category"": ""technical"", ""reason"": ""keyword match""}",technical,keyword match,classified_json,support_queue,0,success
+T0150,delivery,"{""category"": ""delivery"", ""reason"": ""keyword match""}",delivery,keyword match,classified_json,support_queue,0,success
+T0065,billing,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",,JSON category is missing or not allowed.,flagged_invalid_output,human_review,1,success
+T0128,fraud,"{""category"": ""fraud"", ""reason"": ""keyword match""}",fraud,keyword match,classified_json,support_queue,0,success
+T0005,billing,"{""category"": ""billing"", ""reason"": ""keyword match""}",billing,keyword match,classified_json,support_queue,0,success
+T0098,delivery,The customer appears to have a delivery-related problem.,delivery,Extracted from a non-JSON response.,classified_keyword,support_queue,0,success

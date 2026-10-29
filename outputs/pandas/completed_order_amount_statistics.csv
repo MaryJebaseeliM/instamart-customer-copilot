@@ -1,0 +1,13 @@
+statistic,value
+count,11110.0
+mean,269.9071827182718
+median,135.0
+skewness,4.608827438881415
+Q1 (25%),64.8
+Q2 / median (50%),135.0
+Q3 (75%),297.0
+IQR (Q3 - Q1),232.2
+lower 1.5xIQR fence,-283.49999999999994
+upper 1.5xIQR fence,645.3
+outliers below lower fence,0.0
+outliers above upper fence,897.0

@@ -1,0 +1,15 @@
+{
+  "logistic_regression": {
+    "best_params": {
+      "C": 100
+    },
+    "best_cv_f1": 0.650552962900789
+  },
+  "random_forest": {
+    "best_params": {
+      "max_depth": 8,
+      "min_samples_leaf": 10
+    },
+    "best_cv_f1": 0.6828680972842264
+  }
+}

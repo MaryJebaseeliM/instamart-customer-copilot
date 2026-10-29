@@ -1,0 +1,13 @@
+Audit check,Actual,Reference
+Raw orders rows,13084,13084
+Exact duplicate order rows,119,119
+Pending order rows,656,656
+Distinct order_id values,12309,12309
+Non-numeric order_amount entries,67,120
+Negative delivery_minutes,106,106
+Blank delivery_minutes,2541,2541
+Blank customer ages,61,61
+Ages outside 10–100,6,6
+Distinct raw city spellings,18,24
+Distinct non-blank gender spellings,10,10
+Blank gender values,30,30
